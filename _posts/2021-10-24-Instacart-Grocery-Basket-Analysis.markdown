@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2021-10-24
-img: cabin.png
+img: cake.png
 alt: placeholder
 project-date: October 2021
 client: CareerFoundry
