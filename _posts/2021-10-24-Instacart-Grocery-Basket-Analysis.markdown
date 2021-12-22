@@ -15,7 +15,7 @@ Using data provided by Instacart, a real-world online grocery service, gather in
 **Data**
 
 Open-source product & order information from [Instacart](https://www.instacart.com/datasets/grocery-shopping-2017)  
-Fabricated customer demographics provided by CareerFoundry for educational purposes
+Fabricated customer demographics provided by CareerFoundry
 
 **Tools Used**
 
