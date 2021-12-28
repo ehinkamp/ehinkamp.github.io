@@ -32,3 +32,5 @@ Forecasting
 Creating interactive visualizations
 
 Complete [interactive presentation](https://public.tableau.com/app/profile/errol.hinkamp/viz/Task2_9_16277387095420/PreparingforInfluenzaSeason) and accompanying [report](https://drive.google.com/file/d/1Qz0ls0WsEB4sbdQYDcwZWozyvzQRLnEI/view?usp=sharing) are available.
+
+_Note to mobile users:_ Links may lead to direct downloads of the relevant files
