@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2021-08-05
-img: safe.png
+img: Flu.png
 alt: placeholder
 project-date: August 2021
 client: CareerFoundry
