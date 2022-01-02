@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2021-09-04
-img: circus.png
+img: Projector.png
 alt: placeholder
 project-date: September 2021
 client: CareerFoundry
