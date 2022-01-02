@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2021-06-23
-img: game.png
+img: Controller.png
 alt: placeholder
 project-date: August 2021
 client: CareerFoundry
