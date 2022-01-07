@@ -14,7 +14,7 @@ Rockbuster Stealth, a fictional movie rental company, seeks to launch their own 
 
 **Data**
 
-Extensive company data spread across a relational database
+Extensive company data spread across a [relational database](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 **Tools Used**
 
