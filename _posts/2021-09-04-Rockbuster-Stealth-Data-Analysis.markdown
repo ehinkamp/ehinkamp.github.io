@@ -30,6 +30,6 @@ Joining tables
 Subqueries & CTEs  
 Creating interactive visualizations
 
-Complete [interactive presentation](https://public.tableau.com/app/profile/errol.hinkamp/viz/Task3_10_16304181479750/RockbusterDataAnalysis?publish=yes) is available and accompanying documents can be found on [GitHub](https://github.com/ehinkamp/RockbusterStealth).
+Complete [interactive presentation](https://public.tableau.com/app/profile/errol.hinkamp/viz/RockbusterStealthDataAnalysis_16440801085800/RockbusterDataAnalysis?publish=yes) is available and accompanying documents can be found on [GitHub](https://github.com/ehinkamp/RockbusterStealth).
 
 _Note to mobile users:_ Links may lead to direct downloads of the relevant files
